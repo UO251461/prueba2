@@ -30,6 +30,12 @@ public class Carrera {
 	}
 
 	public double getPrecio() {
+	System.out.println("RAMA PRUEBA");
+	System.out.println("RAMA PRUEBA");
+	System.out.println("RAMA PRUEBA");
+	System.out.println("RAMA PRUEBA");
+	System.out.println("RAMA PRUEBA");
+	
 		return precio;
 	}
 
