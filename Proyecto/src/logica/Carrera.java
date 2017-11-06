@@ -18,6 +18,15 @@ public class Carrera {
 		this.fechaEmpiezaInscripcion = fechaEI;
 		this.fechaCompeticion = fechaCompe;
 		this.distancia = distancia;	
+		System.out.println("RAMA PRUEBA");
+		System.out.println("RAMA PRUEBA");
+		System.out.println("RAMA PRUEBA");
+		System.out.println("RAMA PRUEBA");
+		System.out.println("RAMA PRUEBA");
+		System.out.println("RAMA PRUEBA");
+		System.out.println("RAMA PRUEBA");
+		System.out.println("RAMA PRUEBA");
+		System.out.println("RAMA PRUEBA");
 		
 	}
 
@@ -30,6 +39,15 @@ public class Carrera {
 	}
 
 	public double getPrecio() {
+		System.out.println("RAMA PRUEBA");
+		System.out.println("RAMA PRUEBA");
+		System.out.println("RAMA PRUEBA");
+		System.out.println("RAMA PRUEBA");
+		System.out.println("RAMA PRUEBA");
+		System.out.println("RAMA PRUEBA");
+		System.out.println("RAMA PRUEBA");
+		System.out.println("RAMA PRUEBA");
+		System.out.println("RAMA PRUEBA");
 		return precio;
 	}
 
