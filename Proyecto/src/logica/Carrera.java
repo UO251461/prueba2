@@ -30,34 +30,12 @@ public class Carrera {
 	}
 
 	public double getPrecio() {
-	System.out.println("RAMA PRUEBA");
-	System.out.println("RAMA PRUEBA");
-	System.out.println("RAMA PRUEBA");
-	System.out.println("RAMA PRUEBA");
-	System.out.println("RAMA PRUEBA");
-	System.out.println("RAMA PRUEBA");
-	System.out.println("RAMA PRUEBA");
-	
-	System.out.println("RAMA PRUEBA");
-	System.out.println("RAMA PRUEBA");
-	System.out.println("RAMA PRUEBA");
 	
 		return precio;
 	}
 
 	public void setPrecio(double precio) {
 		this.precio = precio;
-		System.out.println("RAMA PRUEBA");
-		System.out.println("RAMA PRUEBA");
-		System.out.println("RAMA PRUEBA");
-		System.out.println("RAMA PRUEBA");
-		System.out.println("RAMA PRUEBA");
-		System.out.println("RAMA PRUEBA");
-		System.out.println("RAMA PRUEBA");
-		
-		System.out.println("RAMA PRUEBA");
-		System.out.println("RAMA PRUEBA");
-		System.out.println("RAMA PRUEBA");
 	}
 
 	public Date getFechaFinalizaInscripcion() {
