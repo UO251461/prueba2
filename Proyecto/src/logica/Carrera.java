@@ -30,7 +30,6 @@ public class Carrera {
 	}
 
 	public double getPrecio() {
-	
 		return precio;
 	}
 
