@@ -35,6 +35,12 @@ public class Carrera {
 	System.out.println("RAMA PRUEBA");
 	System.out.println("RAMA PRUEBA");
 	System.out.println("RAMA PRUEBA");
+	System.out.println("RAMA PRUEBA");
+	System.out.println("RAMA PRUEBA");
+	
+	System.out.println("RAMA PRUEBA");
+	System.out.println("RAMA PRUEBA");
+	System.out.println("RAMA PRUEBA");
 	
 		return precio;
 	}
